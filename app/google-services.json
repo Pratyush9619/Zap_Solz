@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787886302853",
+    "project_id": "tp-zap-solz",
+    "storage_bucket": "tp-zap-solz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787886302853:android:b2eabd6504ef908ac26bec",
+        "android_client_info": {
+          "package_name": "com.example.assingment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787886302853-grdj4j5mur55judo5c9a8rt2alpil8od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assingment",
+            "certificate_hash": "58f2cb9adac1a0bc24fb3c53e99e9d002d6cde13"
+          }
+        },
+        {
+          "client_id": "787886302853-b2gsitf3k977sjb93gjd40ursrldeu73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9VZLY3UbeKlUO_Vn1IsIlIrcFku5VGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787886302853-b2gsitf3k977sjb93gjd40ursrldeu73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
